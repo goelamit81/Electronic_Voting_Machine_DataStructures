@@ -1,4 +1,4 @@
-# Electronic_Voting_Machine_DataStructures
+# Electronic_Voting_Machine_DataStructures_ADT
 
 The output of an Electronic Voting Machine(EVM) is a text file consisting of (voter_id, candidate_id) pairs. Suppose that voter_id is a 6-digit integer and candidate_id is a 3-digit integer. You are provided a file containing the consolidated output of EVMs from a constituency. Note that the exact values of voter_id and candidate_id are not revealed.
 
